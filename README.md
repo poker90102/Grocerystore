@@ -33,17 +33,8 @@ The screen contains more than 60 icons and most of all required elements require
 - Very clean and cool UI
 - Free updates
 - license
--Api Integration
--php with mysql
--Powerful Dashboard
--Add , Manage Category
--Add , Manage Items
--Update Price,
--View Orders (Confirmed, Preparing, On Way, Dilivered)
--Manage Customers
--App Token Authentication
+-Api Integration not included
 -For Api integration Please Contact us:- contact@quintuslabs.com
-
 
 ## Screen 
 
@@ -58,12 +49,3 @@ The screen contains more than 60 icons and most of all required elements require
 <img src="screen/screen5.png">
 
 <img src="screen/screen6.png">
-
-<img src="screen/1.png">
-
-<img src="screen/2.png">
-
-<img src="screen/3.png">
-
-<img src="screen/4.png">
-

@@ -42,7 +42,10 @@ public class CheckoutActivity extends BaseActivity {
         ft.setCustomAnimations(R.anim.slide_from_right, R.anim.slide_to_left);
         ft.replace(R.id.content_frame, new AddressFragment());
         ft.commit();
+
+
     }
+
 
     private void changeActionBarTitle(ActionBar actionBar) {
         // Create a LayoutParams for TextView
@@ -70,6 +73,7 @@ public class CheckoutActivity extends BaseActivity {
         actionBar.setCustomView(tv);
     }
 
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
@@ -87,6 +91,7 @@ public class CheckoutActivity extends BaseActivity {
                 return super.onOptionsItemSelected(item);
         }
     }
+
 
     @Override
     public void onBackPressed() {
